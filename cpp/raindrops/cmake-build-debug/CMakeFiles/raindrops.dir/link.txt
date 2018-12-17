@@ -1,1 +1,0 @@
-/usr/bin/c++  -std=c++11 -g  -rdynamic CMakeFiles/raindrops.dir/raindrops_test.cpp.o CMakeFiles/raindrops.dir/raindrops.cpp.o  -o raindrops -Wl,-Bstatic -lboost_unit_test_framework -lboost_date_time -lboost_regex -Wl,-Bdynamic 
