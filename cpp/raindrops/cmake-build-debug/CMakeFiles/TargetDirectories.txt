@@ -1,0 +1,3 @@
+/home/pazi/exercism/cpp/raindrops/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pazi/exercism/cpp/raindrops/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pazi/exercism/cpp/raindrops/cmake-build-debug/CMakeFiles/raindrops.dir
